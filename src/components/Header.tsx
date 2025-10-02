@@ -44,7 +44,7 @@ const Header = ({ cartItemsCount = 0 }: HeaderProps) => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <img
-              src="logo.png"
+              src="/public/Logo.png"
               alt="Telemart Logo"
               className="h-10 w-auto object-contain"
             />
