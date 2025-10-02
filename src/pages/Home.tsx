@@ -112,7 +112,7 @@ const Home = () => {
          <section className="w-full relative overflow-hidden">
       <div className="w-full h-64 sm:h-96 md:h-[500px] lg:h-[600px] xl:h-[700px]">
         <img
-          src="/public/eatch.jpg"
+          src="/public/sm01.jpg"
           alt="Banner"
           className="w-full h-full object-cover object-center"
         />
